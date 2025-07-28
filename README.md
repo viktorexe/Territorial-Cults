@@ -24,12 +24,6 @@ This bot literally transforms your boring old server into a living, breathing wo
 - The bot handles all the messy war stuff automatically - you just focus on the glory
 - Get pinged every time something spicy happens (because FOMO is real)
 
-### 💰 **Get Rich or Die Trying**
-- Stack points like you're collecting Pokemon cards, but cooler
-- The bot literally watches your games and gives you credit automatically (no cap!)
-- Special events with INSANE multipliers that'll make you feel like a crypto millionaire
-- Flex on everyone with graphs that show just how much of a legend you are 📈
-
 ### 🏆 **Rewards That Don't Suck**
 - Hit milestones and BAM! New roles appear like magic ✨
 - No more begging admins for recognition - the bot's got your back
@@ -111,18 +105,6 @@ docker run -d --env-file .env territorial-cults
 ### Old School Style
 Just `python main.py` and you're golden. Sometimes simple is better!
 
-## 🤝 Wanna Help Make This Even More Epic?
-
-Spotted a bug? Got a crazy idea? Want to add something that'll blow everyone's minds?
-
-1. Fork this repo (it's like copying homework but legal)
-2. Make your branch (`git checkout -b feature/my-sick-idea`)
-3. Code your heart out and commit it
-4. Push that beautiful code
-5. Hit me with a Pull Request and let's make magic happen!
-
-
-
 ## 🙏 Shoutouts to the Real Ones
 
 - The Territorial.io community for being absolutely legendary
@@ -132,9 +114,8 @@ Spotted a bug? Got a crazy idea? Want to add something that'll blow everyone's m
 
 ## 📞 Stuck? Need Backup?
 
-- Drop an issue on GitHub and I'll help you out
+- Drop an issue on GitHub and I'll help you out or join our [discord](https://discord.gg/HvF5QnqtHN) 
 - Check the [docs](https://territorialcults.vercel.app) (they're actually readable, I promise)
-- Support server coming soon where we can all vibe together!
 
 ---
 
